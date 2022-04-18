@@ -1,1 +1,3 @@
 # Movies-ETL
+
+The purpose of the assignment is to extract, transform, and load a large database for storage. The process of ETL gathered data about movies and would like to develop an algorithim to predict which low budget movies will become popular. In ETL, there can be singular source or many sources to gather the data from such as CSV, JSON, and other data queries. After that, data analysts clean and structure the data in desired form. After manipulation and reading the data, it is important to remove any null values and/or remove entire columns. The final step is to write the data into a database for storage. 
